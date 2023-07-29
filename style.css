@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(188, 255, 255);
+    color: blue;
+    padding: 10px;
+}
+
+header a {
+    border-radius: 6px;
+    text-decoration: none;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+}
+
+h1 {
+   color: blue;
+   text-align: center;
+    
+}
+
+.a2 {
+    background-color: rgb(186, 255, 186);
+    padding: 20px;
+}
+
+h2 {
+    color: blue;
+}
